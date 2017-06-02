@@ -1,0 +1,62 @@
+#google {
+	margin: auto;
+	display: block;
+	padding-top: 109px;
+}
+
+.searchbar {
+	box-sizing: border-box;
+	height: 100%;
+	text-align: center;
+	display: block;
+}
+
+#searchbox:hover {
+	border-color: #A1A1A1;
+	box-shadow: 2px 3px 3px #A1A1A1;
+}
+
+#searchbox:focus {
+	border-color: #A1A1A1;
+	box-shadow: 2px 3px 3px #A1A1A1;
+}
+
+#searchbox {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: none;
+	border-color: #CCC;
+	border-style: solid;
+	border-width: 0.5px;
+	width: 75%;
+	padding: 1.75%;
+}
+
+
+.buttons:hover {
+	color: #0D0D0D;
+	border-radius: 1px;
+	border-color: #878787;
+	border-style: solid;
+	border-width: 1px;
+
+}
+
+.buttons {
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin: 5px;
+	padding: 12px;
+	border-style: solid;
+	border-width:1px;
+	border-color: #EDEDED;
+	text-align: center;
+	color: #878787;
+	background-color: #EDEDED;
+}
+
+.test {
+	background-color: blue;
+}
